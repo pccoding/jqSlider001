@@ -22,8 +22,5 @@ and open the template in the editor.
             <img id="slide3" style="display: none" class="img"src="bike3.jpg"/>
             
         </div>
-        <?php
-        // put your code here
-        ?>
     </body>
 </html>
