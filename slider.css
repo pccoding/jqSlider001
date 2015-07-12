@@ -1,0 +1,15 @@
+.img{
+    position: absolute;
+    width: 300px;
+/*    border: solid black 1px;*/
+}
+
+.container{
+    padding-top: 50px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+body{
+    background-color: whitesmoke;
+}
